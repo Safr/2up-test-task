@@ -1,0 +1,335 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Loader Component should render correctly 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Loader />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateError": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "function",
+    "props": Object {
+      "children": Array [
+        <div />,
+        <div />,
+        <div />,
+        <div />,
+      ],
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {},
+        "ref": null,
+        "rendered": null,
+        "type": "div",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {},
+        "ref": null,
+        "rendered": null,
+        "type": "div",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {},
+        "ref": null,
+        "rendered": null,
+        "type": "div",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {},
+        "ref": null,
+        "rendered": null,
+        "type": "div",
+      },
+    ],
+    "type": Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": undefined,
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-bdVaJa",
+        "isStatic": true,
+        "rules": Array [
+          "
+  position: relative;
+  width: 64px;
+  height: 64px;
+  margin: 0 auto;
+
+  & div {
+    position: absolute;
+    top: 27px;
+    width: 11px;
+    height: 11px;
+    border-radius: 50%;
+    background-color: ",
+          "#282c34",
+          ";
+    animation-timing-function: cubic-bezier(0, 1, 1, 0);
+
+    &:nth-child(1) {
+      left: 6px;
+      animation: ",
+          Keyframes {
+            "id": "sc-keyframes-bBWfDF",
+            "inject": [Function],
+            "name": "bBWfDF",
+            "rules": Array [
+              "@-webkit-keyframes bBWfDF{0%{-webkit-transform:scale(0);-ms-transform:scale(0);transform:scale(0);}100%{-webkit-transform:scale(1);-ms-transform:scale(1);transform:scale(1);}}",
+              "@keyframes bBWfDF{0%{-webkit-transform:scale(0);-ms-transform:scale(0);transform:scale(0);}100%{-webkit-transform:scale(1);-ms-transform:scale(1);transform:scale(1);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.6s infinite;
+    }
+
+    &:nth-child(2) {
+      left: 6px;
+      animation: ",
+          Keyframes {
+            "id": "sc-keyframes-eEJBHY",
+            "inject": [Function],
+            "name": "eEJBHY",
+            "rules": Array [
+              "@-webkit-keyframes eEJBHY{0%{-webkit-transform:translate(0,0);-ms-transform:translate(0,0);transform:translate(0,0);}100%{-webkit-transform:translate(19px,0);-ms-transform:translate(19px,0);transform:translate(19px,0);}}",
+              "@keyframes eEJBHY{0%{-webkit-transform:translate(0,0);-ms-transform:translate(0,0);transform:translate(0,0);}100%{-webkit-transform:translate(19px,0);-ms-transform:translate(19px,0);transform:translate(19px,0);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.6s infinite;
+    }
+
+    &:nth-child(3) {
+      left: 26px;
+      animation: ",
+          Keyframes {
+            "id": "sc-keyframes-eEJBHY",
+            "inject": [Function],
+            "name": "eEJBHY",
+            "rules": Array [
+              "@-webkit-keyframes eEJBHY{0%{-webkit-transform:translate(0,0);-ms-transform:translate(0,0);transform:translate(0,0);}100%{-webkit-transform:translate(19px,0);-ms-transform:translate(19px,0);transform:translate(19px,0);}}",
+              "@keyframes eEJBHY{0%{-webkit-transform:translate(0,0);-ms-transform:translate(0,0);transform:translate(0,0);}100%{-webkit-transform:translate(19px,0);-ms-transform:translate(19px,0);transform:translate(19px,0);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.6s infinite;
+    }
+
+    &:nth-child(4) {
+      left: 45px;
+      animation: ",
+          Keyframes {
+            "id": "sc-keyframes-gjACFv",
+            "inject": [Function],
+            "name": "gjACFv",
+            "rules": Array [
+              "@-webkit-keyframes gjACFv{0%{-webkit-transform:scale(1);-ms-transform:scale(1);transform:scale(1);}100%{-webkit-transform:scale(0);-ms-transform:scale(0);transform:scale(0);}}",
+              "@keyframes gjACFv{0%{-webkit-transform:scale(1);-ms-transform:scale(1);transform:scale(1);}100%{-webkit-transform:scale(0);-ms-transform:scale(0);transform:scale(0);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.6s infinite;
+    }
+  }
+",
+        ],
+      },
+      "displayName": "styled.div",
+      "render": [Function],
+      "styledComponentId": "sc-bdVaJa",
+      "target": "div",
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    },
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "function",
+      "props": Object {
+        "children": Array [
+          <div />,
+          <div />,
+          <div />,
+          <div />,
+        ],
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {},
+          "ref": null,
+          "rendered": null,
+          "type": "div",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {},
+          "ref": null,
+          "rendered": null,
+          "type": "div",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {},
+          "ref": null,
+          "rendered": null,
+          "type": "div",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {},
+          "ref": null,
+          "rendered": null,
+          "type": "div",
+        },
+      ],
+      "type": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": undefined,
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-bdVaJa",
+          "isStatic": true,
+          "rules": Array [
+            "
+  position: relative;
+  width: 64px;
+  height: 64px;
+  margin: 0 auto;
+
+  & div {
+    position: absolute;
+    top: 27px;
+    width: 11px;
+    height: 11px;
+    border-radius: 50%;
+    background-color: ",
+            "#282c34",
+            ";
+    animation-timing-function: cubic-bezier(0, 1, 1, 0);
+
+    &:nth-child(1) {
+      left: 6px;
+      animation: ",
+            Keyframes {
+              "id": "sc-keyframes-bBWfDF",
+              "inject": [Function],
+              "name": "bBWfDF",
+              "rules": Array [
+                "@-webkit-keyframes bBWfDF{0%{-webkit-transform:scale(0);-ms-transform:scale(0);transform:scale(0);}100%{-webkit-transform:scale(1);-ms-transform:scale(1);transform:scale(1);}}",
+                "@keyframes bBWfDF{0%{-webkit-transform:scale(0);-ms-transform:scale(0);transform:scale(0);}100%{-webkit-transform:scale(1);-ms-transform:scale(1);transform:scale(1);}}",
+              ],
+              "toString": [Function],
+            },
+            " 0.6s infinite;
+    }
+
+    &:nth-child(2) {
+      left: 6px;
+      animation: ",
+            Keyframes {
+              "id": "sc-keyframes-eEJBHY",
+              "inject": [Function],
+              "name": "eEJBHY",
+              "rules": Array [
+                "@-webkit-keyframes eEJBHY{0%{-webkit-transform:translate(0,0);-ms-transform:translate(0,0);transform:translate(0,0);}100%{-webkit-transform:translate(19px,0);-ms-transform:translate(19px,0);transform:translate(19px,0);}}",
+                "@keyframes eEJBHY{0%{-webkit-transform:translate(0,0);-ms-transform:translate(0,0);transform:translate(0,0);}100%{-webkit-transform:translate(19px,0);-ms-transform:translate(19px,0);transform:translate(19px,0);}}",
+              ],
+              "toString": [Function],
+            },
+            " 0.6s infinite;
+    }
+
+    &:nth-child(3) {
+      left: 26px;
+      animation: ",
+            Keyframes {
+              "id": "sc-keyframes-eEJBHY",
+              "inject": [Function],
+              "name": "eEJBHY",
+              "rules": Array [
+                "@-webkit-keyframes eEJBHY{0%{-webkit-transform:translate(0,0);-ms-transform:translate(0,0);transform:translate(0,0);}100%{-webkit-transform:translate(19px,0);-ms-transform:translate(19px,0);transform:translate(19px,0);}}",
+                "@keyframes eEJBHY{0%{-webkit-transform:translate(0,0);-ms-transform:translate(0,0);transform:translate(0,0);}100%{-webkit-transform:translate(19px,0);-ms-transform:translate(19px,0);transform:translate(19px,0);}}",
+              ],
+              "toString": [Function],
+            },
+            " 0.6s infinite;
+    }
+
+    &:nth-child(4) {
+      left: 45px;
+      animation: ",
+            Keyframes {
+              "id": "sc-keyframes-gjACFv",
+              "inject": [Function],
+              "name": "gjACFv",
+              "rules": Array [
+                "@-webkit-keyframes gjACFv{0%{-webkit-transform:scale(1);-ms-transform:scale(1);transform:scale(1);}100%{-webkit-transform:scale(0);-ms-transform:scale(0);transform:scale(0);}}",
+                "@keyframes gjACFv{0%{-webkit-transform:scale(1);-ms-transform:scale(1);transform:scale(1);}100%{-webkit-transform:scale(0);-ms-transform:scale(0);transform:scale(0);}}",
+              ],
+              "toString": [Function],
+            },
+            " 0.6s infinite;
+    }
+  }
+",
+          ],
+        },
+        "displayName": "styled.div",
+        "render": [Function],
+        "styledComponentId": "sc-bdVaJa",
+        "target": "div",
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      },
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getDerivedStateFromProps": true,
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+  },
+}
+`;

@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Users Actions should add error 1`] = `
+Object {
+  "error": "error",
+  "type": "ADD_USERS_FAILURE",
+}
+`;
+
+exports[`Users Actions should add users 1`] = `
+Object {
+  "type": "ADD_USERS_SUCCESS",
+  "users": Array [
+    Object {
+      "id": 1,
+      "name": "name",
+    },
+  ],
+}
+`;
